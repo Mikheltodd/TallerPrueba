@@ -1,0 +1,25 @@
+Pseudocódigo Problema 1: Información Personal
+
+Program mostrarInformacionPersonal
+Start
+// Programa para mostrar el nombre, la dirección, teléfono y carrera de una persona
+// Declaración de variables
+Declare String name
+Declare String address
+Declare String phone
+Declare String career
+
+// Obtener datos
+Display "Por favor, ingrese su nombre: "
+Input name
+Display "Ingrese su dirección (ciudad, estado, código postal): "
+Input address
+Display "Ingrese su número de teléfono: "
+Input phone
+Display "Ingrese su carrera: "
+Input career
+
+// Mostrar información
+Display "Información personal de ", name, ". Dirección: ", address, ". Teléfono: ", phone, ". Carrera: ", career
+
+End
