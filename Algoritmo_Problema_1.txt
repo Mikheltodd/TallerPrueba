@@ -1,0 +1,5 @@
+Algoritmo para suministrar Información Personal
+1. Iniciar
+2. Obtener el nombre, dirección (con ciudad, estado, código postal), número de teléfono y especialización
+3. Mostrar la Información Personal
+4. Finalizar
